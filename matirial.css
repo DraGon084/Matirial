@@ -1,0 +1,49 @@
+body {
+  background-color: gray;
+}
+.box {
+  border-radius: 30px;
+  background-color: #424547;
+  text-align: center;
+  line-height: 130px;
+  color: #9DB0CE;
+  box-shadow: 2px 2px 14px grey;
+  color: whitesmoke;
+  margin: 10 0 0 0;
+  box-direction: center;
+}
+
+.img {
+  border-radius: 100px;
+}
+
+.head {
+  width: 377px;
+  background-color: #515457;
+  color: lightgray;
+  box-shado: 1px 1px 10px grey;
+  text-align: center;
+  border: 1px solid #515457;
+  box-sizing: border-box;
+  border-radius: 15px
+}
+
+.btn {
+  text-align: center;
+  color: black;
+}
+.container {
+  background-color: #515457;
+  border: 1px solid #515457;
+  border-radius: 20px;
+  box-shadow: 1px 1px 2px black;
+}
+
+.top {
+  background-color: #515457;
+  color: whitesmoke;
+   box-shado: 1px 1px 10px grey;
+  border: 1px solid #515457;
+  box-sizing: border-box;
+  border-radius: 15px
+}
